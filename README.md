@@ -1,4 +1,4 @@
-# GraphTheoryAnalysisPipeline
+# Graph Theory Analysis Pipeline
 Summary:
 
 
